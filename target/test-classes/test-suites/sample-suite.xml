@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Sample Test Suite" verbose="10">
+  <test  name="Chrome Browser Test">
+  <classes>
+     <class name="com.pto.cta.tests.login.LoginTest" />
+  </classes>
+  </test> <!-- Chrome Browser Test -->
+</suite> <!-- Demo QA- Iframe Test Suite -->
