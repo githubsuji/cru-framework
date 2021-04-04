@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite name="Master Test Suite" verbose="10">
-<suite-files>
-   <suite-file path="sample-suite.xml"/>
-  </suite-files>
-</suite>
